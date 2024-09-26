@@ -1,6 +1,6 @@
 # Hello devs 👋
 
-Sou apaixonado por desenvolvimento e tecnologia.
+
 
 ## Mais sobre mim
 
